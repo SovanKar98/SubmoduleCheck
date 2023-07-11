@@ -1,0 +1,3 @@
+[submodule "submodules-dir"]
+	path = submodules-dir
+	url = https://github.com/SovanKar98/Submodule_Reference.git
